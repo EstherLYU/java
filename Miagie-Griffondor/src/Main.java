@@ -6,6 +6,8 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Bienvenue chez les Griffondor !!");
+        System.out.println("自己修改");
+        
         try {
         	
             Class.forName("com.mysql.cj.jdbc.Driver");
